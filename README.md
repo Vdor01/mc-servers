@@ -1,3 +1,1 @@
-A weboldal:
-
-https://vdor01.github.io/mc-servers/
+# My server watchlist
